@@ -1,0 +1,16 @@
+.signupform{
+    background: #fff;
+    border: 1px solid #ccc;
+    padding: 30px;
+    margin: 50px auto;
+}
+
+.signupform h1{
+    text-indent: -9999px;
+    background: url(https://www.instagram.com/static/bundles/es6/sprite_core_b20f2a3cd7e4.png/b20f2a3cd7e4.png);
+    background-position: -96px 0px;
+    width: 176px;
+    height: 52px;
+    text-align: center;
+    margin: 0 auto;
+}
